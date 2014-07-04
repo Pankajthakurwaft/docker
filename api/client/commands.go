@@ -1,21 +1,7 @@
 package client
 
-import (
-	"bufio"
-	"bytes"
-	"encoding/base64"
-	"encoding/json"
-	"fmt"
-	"io"
-	"io/ioutil"
-	"net/http"
-	"net/url"
-	"os"
-	"os/exec"
-	"path"
-	"path/filepath"
-	"runtime"
-	"strconv"
+
+	
 	"strings"
 	"syscall"
 	"text/tabwriter"
